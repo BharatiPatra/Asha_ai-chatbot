@@ -23,8 +23,6 @@ tenacity
 
 # LLM packages
 tiktoken
-# torch
-# transformers
 sentence-transformers
 xxhash
 langchain

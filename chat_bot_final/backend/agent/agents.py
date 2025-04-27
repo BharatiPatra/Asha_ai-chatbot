@@ -14,14 +14,14 @@ from google.genai import types
 from dotenv import load_dotenv
 from utils.constants import MODEL_ID
 
-from libraries.PathRAG.PathRAG.utils import EmbeddingFunc
-from libraries.PathRAG.PathRAG import PathRAG, QueryParam
-from libraries.PathRAG.PathRAG.llm import ollama_embed
+# from libraries.PathRAG.PathRAG.utils import EmbeddingFunc
+# from libraries.PathRAG.PathRAG import PathRAG, QueryParam
+# from libraries.PathRAG.PathRAG.llm import openai_embedding
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 
 from langchain_google_genai import ChatGoogleGenerativeAI
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
 
 
 
@@ -36,57 +36,53 @@ WORKING_DIR = "./knowledge_base/path_rag"
 
 llm = ChatGoogleGenerativeAI(model=MODEL_ID, temperature=0.0)
 
-async def llm_model_func(
-    prompt, system_prompt=None, history_messages=[], keyword_extraction=False, **kwargs
-) -> str:
-    # 1. Initialize the GenAI Client with your Gemini API Key
-    client = genai.Client(api_key=gemini_api_key)
+# async def llm_model_func(
+#     prompt, system_prompt=None, history_messages=[], keyword_extraction=False, **kwargs
+# ) -> str:
+#     # 1. Initialize the GenAI Client with your Gemini API Key
+#     client = genai.Client(api_key=gemini_api_key)
 
-    # 2. Combine prompts: system prompt, history, and user prompt
-    if history_messages is None:
-        history_messages = []
+#     # 2. Combine prompts: system prompt, history, and user prompt
+#     if history_messages is None:
+#         history_messages = []
 
-    combined_prompt = ""
-    if system_prompt:
-        combined_prompt += f"{system_prompt}\n"
+#     combined_prompt = ""
+#     if system_prompt:
+#         combined_prompt += f"{system_prompt}\n"
 
-    for msg in history_messages:
-        # Each msg is expected to be a dict: {"role": "...", "content": "..."}
-        combined_prompt += f"{msg['role']}: {msg['content']}\n"
+#     for msg in history_messages:
+#         # Each msg is expected to be a dict: {"role": "...", "content": "..."}
+#         combined_prompt += f"{msg['role']}: {msg['content']}\n"
 
-    # Finally, add the new user prompt
-    combined_prompt += f"user: {prompt}"
+#     # Finally, add the new user prompt
+#     combined_prompt += f"user: {prompt}"
 
-    # 3. Call the Gemini model
-    response = client.models.generate_content(
-        model=MODEL_ID,
-        contents=[combined_prompt],
-        config=types.GenerateContentConfig(max_output_tokens=500, temperature=0.1),
-    )
+#     # 3. Call the Gemini model
+#     response = client.models.generate_content(
+#         model=MODEL_ID,
+#         contents=[combined_prompt],
+#         config=types.GenerateContentConfig(max_output_tokens=500, temperature=0.1),
+#     )
 
-    # 4. Return the response text
-    return response.text
+#     # 4. Return the response text
+#     return response.text
 
-async def embedding_func(texts: list[str]) -> np.ndarray:
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    embeddings = model.encode(texts, convert_to_numpy=True)
-    return embeddings
+# async def embedding_func(texts: list[str]) -> np.ndarray:
+#     model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
+#     embeddings = model.encode(texts, convert_to_numpy=True)
+#     return embeddings
 
-def initialize_rag():
-    rag = PathRAG(
-        working_dir=WORKING_DIR,
-        llm_model_func=llm_model_func,
-        embedding_func=EmbeddingFunc(
-            embedding_dim=384,
-            max_token_size=8192,
-            func=embedding_func,
-        ),
-    )
+# def initialize_rag():
+#     rag = PathRAG(
+#         working_dir=WORKING_DIR,
+#         llm_model_func=llm_model_func,
+#         embedding_func=openai_embedding
+#     )
 
-    return rag
+#     return rag
 
-# Initialize RAG instance
-rag = initialize_rag()
+# # Initialize RAG instance
+# rag = initialize_rag()
 
 def format_result(result):
     from datetime import date
@@ -213,9 +209,9 @@ User Query:
 {query}
 """
     prompt = prompt.format(compiled_history=compiled_history, query=query)
-    response = await rag.aquery(prompt, param=QueryParam(mode="hybrid"))
+    # response = await rag.aquery(prompt, param=QueryParam(mode="hybrid"))
 
-    state.rag_response = response
+    state.rag_response = ""
     return state
 
 async def tavily_search_agent(state: AgentState):
@@ -289,7 +285,7 @@ Response Guidelines:
 
     prompt = prompt_template.format(user_query=query, 
                                     compiled_history=state.compiled_history, 
-                                    result_1=tavily_text, result_2=rag_text)
+                                    result_1=tavily_text)
     print(f"Prompt: {prompt}")
     response = await llm.ainvoke(prompt)
     state.response = response.content
