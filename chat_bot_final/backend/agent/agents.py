@@ -21,7 +21,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 
 from langchain_google_genai import ChatGoogleGenerativeAI
-
+from sentence_transformers import SentenceTransformer
 
 
 
@@ -67,17 +67,19 @@ async def llm_model_func(
     # 4. Return the response text
     return response.text
 
+async def embedding_func(texts: list[str]) -> np.ndarray:
+    model = SentenceTransformer("all-MiniLM-L6-v2")
+    embeddings = model.encode(texts, convert_to_numpy=True)
+    return embeddings
 
 def initialize_rag():
     rag = PathRAG(
         working_dir=WORKING_DIR,
         llm_model_func=llm_model_func,
         embedding_func=EmbeddingFunc(
-            embedding_dim=768,
+            embedding_dim=384,
             max_token_size=8192,
-            func=lambda texts: ollama_embed(
-                texts, embed_model="nomic-embed-text", host="http://localhost:11434"
-            ),
+            func=embedding_func,
         ),
     )
 

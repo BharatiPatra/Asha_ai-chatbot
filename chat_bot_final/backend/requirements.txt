@@ -25,6 +25,7 @@ tenacity
 tiktoken
 torch
 transformers
+sentence-transformers
 xxhash
 langchain
 langchain-community
