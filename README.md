@@ -83,9 +83,10 @@ uvicorn app.main:app --reload
 AshaAI/chat_bot_final
 ├── backend/
 │   ├── agents/
-│   ├── db/
-│   ├── rag/
-│   ├── scheduler/
+│   ├── dataset/
+│   ├── knowledge_base/path_rag/
+│   ├── task_scheduler/
+│   ├── utils/
 │   └── app/main.py
 ├── frontend/
 │   └── (React app)
