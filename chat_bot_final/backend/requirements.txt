@@ -50,3 +50,4 @@ pydantic_core
 fastapi
 uvicorn
 motor
+nest-asyncio
