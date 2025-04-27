@@ -1,0 +1,628 @@
+{
+  "local": {
+    "0d0ec010e81b21eab0d9592f116ad589": {
+      "return": "Unfortunately, I do not have access to real-time information about upcoming events, including AI events in India.  To find this information, I would recommend searching online using search engines like Google, Bing, or DuckDuckGo, using keywords like \"AI events India\" or \"upcoming AI conferences India.\"  Event listing websites and social media groups focused on AI in India might also provide relevant information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nIs there upcoming AI event in india?\n"
+    },
+    "a26f5c884f0cb972c2f5fa804627f9b5": {
+      "return": "Unfortunately, there is no information provided in the tables about startup events.  The input data does not contain any details about events, including startup events.  Therefore, I cannot answer the user's query about startup events.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nis there any startup events happening\n"
+    },
+    "700bcd868d369a43b74511181f8c90f2": {
+      "return": "Unfortunately, there is no information provided in the tables to answer the user's question about AWS events.  The provided data appears to be structured for storing and querying information about entities and relationships, but it does not contain any data about AWS events.  Therefore, I cannot determine if any AWS events are happening.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nis there any AWS events happening\n"
+    },
+    "0ebc76d02ab05cc53bc08e053e94bbc6": {
+      "return": "Unfortunately, I do not have access to any data about AWS events in India.  The provided data tables are empty, and contain no information about events, locations, or schedules.  Therefore, I cannot answer your question.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nis there any AWS events happening in india\n"
+    },
+    "676d4989d6b8430f954f016f721597e7": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your question about startup jobs.  The prompt lacks the necessary data to determine if there are any startup job opportunities.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nis there any startup jobs happening\n"
+    },
+    "98fae2cbd343a59c3c8653c311d5c347": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer the question about startup jobs in India.  Therefore, I cannot provide a summary of available data or any relevant commentary.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nis there any startup jobs in india\n"
+    },
+    "80ad1e9066b317599d12181da94494f8": {
+      "return": "Unfortunately, I do not have access to job listings or real-time data on job availability in India.  The provided data tables do not contain information about job postings or employment opportunities.  Therefore, I cannot fulfill your request for job recommendations in India based on Java experience.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nI have 5 year of experience in java, could you find me some jobs in india\n"
+    },
+    "35021a5569bd9707157d6a136af6239d": {
+      "return": "Unfortunately, I do not have access to any job listings or data to fulfill your request.  The provided data tables are empty, and therefore I cannot provide a summary of job opportunities for someone with five years of Java experience.  To answer your query, I would need access to a database of job postings or a similar resource.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 5 year experience in java find me jobs\n"
+    },
+    "e5e0e555c5a16889e6fe3ff214e3fbd7": {
+      "return": "Unfortunately, I do not have access to job listings or a database of available positions.  Therefore, I cannot fulfill the request to find jobs for someone with three years of Java experience.  My knowledge is limited to the information provided in the tables, which do not contain job postings.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3 yr of experience in java find me jobs?\n"
+    },
+    "c120f63c92bcf0bb41bde1ea75906272": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about finding a job with 3 years of Java experience.  The prompt only provides empty tables and no data.  I cannot provide a job search summary or recommendations without access to relevant information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3 yr of experience in java find me job\n"
+    },
+    "cb12ef979c2e0d5b54761da2c77ed6a1": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about finding a Java job with 3 years of experience.  My knowledge is limited to the information provided in the prompt.  I cannot access external websites or job boards to search for suitable positions.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3 yr of experience find me job in java\n"
+    },
+    "7b0f772c99b36bbac15f4611c821e682": {
+      "return": "Unfortunately, I do not have access to the chat history.  Therefore, I cannot provide a summary of the conversation between the user and the AI assistant.  The user query \"check in bangalore only\" is not sufficient to summarize a conversation.  To summarize the conversation, I need the full text of the exchange.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nPlease provide the conversation between the user and the AI assistant.  I need the text of the conversation to summarize it.\nUser Query:\ncheck in bangalore only\n"
+    },
+    "67433d2e49990d2d0a96ca5faefd3cd4": {
+      "return": "Unfortunately, I do not have access to any data tables or information to assist with your job search.  Therefore, I cannot provide a summary of chat history or suggest jobs for you based on your experience.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3yr experience in java find jobs for me\n"
+    },
+    "204be45aa212560dd779d31e846722a9": {
+      "return": "Unfortunately, I do not have access to the conversation history or any data to answer your query.  The prompt only provides empty tables and a user query.  I cannot fulfill the request to summarize a chat history or identify check-ins in Bangalore without the necessary data.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nNo conversation provided.  Please provide the conversation between the user and the assistant.\nUser Query:\ncheck in bangalore only\n"
+    },
+    "666a2ab6401286e87d2ce595ad39f700": {
+      "return": "Unfortunately, I do not have access to the chat history.  Therefore, I cannot provide a summary of the conversation between the user and the AI assistant, nor can I provide a summary of the user's query \"search in bangalore.\"  The requested data is not available in the provided tables.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nPlease provide the conversation between the user and the AI assistant.  I need the text of the conversation to summarize it.\nUser Query:\nsearch in bangalore\n"
+    },
+    "235e24f9b1ccc87983a893a2a9ba9550": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your question about a chat history summary.  The prompt mentions tables, but no data is provided.  Therefore, I cannot summarize any chat history or provide information about the user's experience in Java.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3 yr experience in java\n"
+    },
+    "419418922d49b01b54f97afc870fa4fb": {
+      "return": "Unfortunately, the provided data tables do not contain information about job listings or related topics.  Therefore, I cannot fulfill your request to find jobs.  The tables appear to be structured for storing information about entities and relationships, but they lack the necessary data to answer your query.  To find jobs, I would need access to a database or resource containing job postings.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:**  The user is stating their experience level in Java.\n\n**Key Information:**  No specific information or insights were provided by the AI assistant.\n\n**User Actions/Intentions:** The user is likely initiating a conversation about Java-related topics or seeking further assistance.  More context is needed to understand the user's goal.\nUser Query:\nfind jobs\n"
+    },
+    "ee2d86e052036504c3bd7a6b306595ad": {
+      "return": "The 's chat history indicates a request for job searching assistance specifically for Java developers with three years of experience, focusing on opportunities in Bangalore.  Unfortunately, the provided chat history summary reveals that the AI assistant did not offer any specific job advice or insights.  The conversation abruptly ended after the 's request.\n\nThe 's intention is clear: they are seeking recommendations or resources for Java development positions in Bangalore.  Without any specific suggestions or resources from the AI assistant, it is impossible to provide a list of job recommendations or relevant resources.  The lack of response from the AI assistant leaves the 's query unanswered.\n\nTo effectively assist the , further information is needed.  This could include details about the type of Java development roles the  is interested in (e.g., backend, frontend, full-stack), desired salary range, and preferred company size or industry.  Additional information about the 's skills and experience beyond the three years of Java development would also be helpful.  Knowing the specific requirements of the jobs the  is seeking would allow for more targeted recommendations.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job searching assistance for a Java developer with 3 years of experience.\n\n**Key Information:**  No specific job advice or insights were provided by the AI assistant.  The conversation ended abruptly after the user's request.\n\n**User Actions/Intentions:** The user is seeking job recommendations or resources related to Java development positions.\nUser Query:\nfind in bangalore only\n"
+    },
+    "b278d5abb1932842a10e3dde8509d120": {
+      "return": "The user is seeking assistance with job searching in Bangalore.  No specific job information or insights were provided by the AI assistant in the chat history.  The user's intention is to receive help with the job search process within the city of Bangalore.  The user's query, \"yes,\" likely indicates agreement or confirmation of the summary provided.  Without further details from the chat history, it's difficult to provide more specific assistance.  More information about the user's desired job type, experience, or other relevant criteria would be helpful to tailor the assistance.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job searching in Bangalore.\n\n**Key Information:**  No specific job information or insights provided by the AI assistant.\n\n**User Actions/Intentions:**  The user is requesting job search assistance, specifically within the city of Bangalore.\nUser Query:\nyes\n"
+    },
+    "9b1790305ab445a9e9d728826fa1eac3": {
+      "return": "The user is requesting the capital of India.  Unfortunately, the provided data does not contain this information.  While the user's query is about India, and the chat history mentions a focus on Bangalore, the data tables do not include a list of countries or their capitals.  Therefore, I cannot answer the question based on the given information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:**  The user is seeking information or results specifically located in Bangalore.\n\n**Key Information:**  No specific information was provided by the AI assistant.\n\n**User Actions/Intentions:** The user is filtering a search to only include results from Bangalore.\nUser Query:\nwhat is the capital of india\n"
+    },
+    "f3930bd394b7c454766bc670e8cf79d4": {
+      "return": "The user's query indicates a job seeker with three years of Java experience seeking employment.  Unfortunately, without additional context from the provided data, it's impossible to provide a more detailed summary or analysis of this query.  The tables do not contain information about job postings, salary expectations, or specific job requirements.  To provide a more helpful response, additional data about the job market, desired roles, or location would be necessary.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3yr expienre in java looking for job\n"
+    },
+    "ef7255855d9c4fe1b64b80cafbe4fb82": {
+      "return": "The  is looking for Java developer jobs in Bangalore, India.  They have three years of experience in Java development.  No further details about the desired job role, salary expectations, or specific company preferences were provided.\n\nThis query is quite broad.  To provide more specific and helpful results, additional information would be beneficial.  For example, the  might want to specify:\n\n* **Specific skills:**  Beyond Java, what other technologies or frameworks are they proficient in (e.g., Spring Boot, Hibernate, etc.)?\n* **Desired salary range:**  Knowing the salary expectations can help narrow down the search.\n* **Company type:**  Are they interested in startups, large corporations, or specific industry sectors?\n* **Job title preferences:**  Are they open to different job titles (e.g., Senior Java Developer, Junior Java Developer)?\n* **Location specifics:**  Are they open to working in a specific area within Bangalore?\n\nWith more details, a more targeted and effective job search can be conducted.  Without further information, the search will likely yield a large number of results, many of which may not be a good fit for the 's needs.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n* **Core Discussion:** Job search in Bangalore for a Java developer with 3 years of experience.\n\n* **Key Information:**  No specific key information or insights were provided by the AI assistant.  The user simply stated their experience and location preference.\n\n* **User Actions/Intentions:** The user is seeking job opportunities in Bangalore, India, as a Java developer with 3 years of experience.  No further details or requests were provided.\nUser Query:\njava job in bangalore\n"
+    },
+    "7316ebf145e25d4522fb852ca60a04e1": {
+      "return": "The  query \"I have 3 years of experience in Java, find a job\" indicates a job seeker looking for Java-related employment.  The query highlights the 's skillset (3 years of Java experience) and their objective (finding a job).  Without further details about the 's desired location, salary expectations, or specific Java roles, it's difficult to provide a more tailored response.\n\nTo effectively assist the  in finding a job, additional information would be beneficial.  For example, knowing the 's desired location (city, state, or country) would help narrow down potential job opportunities.  Similarly, salary expectations and preferred job roles (e.g., software engineer, developer, etc.) would significantly improve the search results.  The 's educational background, any relevant certifications, and a summary of their previous projects or accomplishments would also be valuable.\n\nUnfortunately, the provided data tables do not contain any information relevant to job searching or  profiles.  Therefore, a comprehensive job search recommendation cannot be generated based on the current input.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\ni have 3yr experience in java find job\n"
+    },
+    "00a00114090d3bd1a5bf7991d926cc25": {
+      "return": "The user is seeking a job in web development, specifically as a Java developer with three years of experience.  The chat history indicates that the user is actively looking for employment opportunities in this field.  No specific advice or insights were provided by the AI assistant in response to the user's initial query.  The user's goal is to find a job related to Java development.\n\nUnfortunately, without additional details about the user's desired location, salary expectations, or specific technologies they are proficient in, it is difficult to provide more specific job search assistance.  To help the user find suitable job opportunities, more information is needed.  For example, knowing the desired location would allow for a more targeted search.  Similarly, salary expectations and specific technologies used in the user's previous roles would help narrow down the search to more relevant job postings.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job search assistance for a Java developer with 3 years of experience.\n\n**Key Information:**  No specific advice or insights were provided by the AI assistant as the user only stated their experience and job-seeking goal.\n\n**User Actions/Intentions:**  The user is seeking a job in Java development.\nUser Query:\nweb development job\n"
+    },
+    "0874e3d56b6a6d0d783ad2596849f982": {
+      "return": "The  is seeking web development job opportunities in Bangalore.  Unfortunately, without access to job boards or specific web development resources, I cannot directly provide job postings.  To find suitable job opportunities, the  should utilize online job boards specializing in technology positions, such as Indeed, LinkedIn, Naukri, or similar platforms.  These platforms often allow filtering by location (Bangalore) and specific job titles (web developer, front-end developer, back-end developer, etc.).\n\nFurthermore, exploring company websites directly, particularly those known for web development projects in Bangalore, could yield relevant openings.  Networking through online platforms or local meetups focused on web development in Bangalore could also be beneficial.  These avenues might provide insights into less publicized job opportunities.\n\nIn summary, while I cannot provide a list of jobs, I can suggest effective methods for the  to actively search for web development positions in Bangalore.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:**  The user is seeking web development job opportunities in Bangalore.\n\n**Key Information:**  (No specific information provided by the assistant.)\n\n**User Actions/Intentions:** The user is looking for job postings or resources related to web development jobs in Bangalore.\nUser Query:\nfind job in bangalore\n"
+    },
+    "72170f3b3b883737702512b113d6ab7a": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request.  Therefore, I cannot provide a summary of job opportunities for Java developers.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nfind job for java\n"
+    },
+    "4a6af3a18ffa153dadf93526867f3901": {
+      "return": "The  is seeking assistance in finding a Java-related job, specifically jobs for someone with 3 years of Java experience.\n\nUnfortunately, without access to job listings or a database of available Java developer positions, I cannot provide specific job recommendations.  To assist the  further, more information is needed.  For example, the 's location, desired salary range, specific Java technologies or frameworks they are proficient in, and any preferred company types would be helpful.  A more detailed description of the desired job role (e.g., backend, frontend, full-stack) would also be beneficial.\n\nThe 's stated experience level (3 years) is a good starting point for job searches.  However, without further details, it's difficult to narrow down suitable job opportunities.  Job boards and company career pages are good resources for finding Java developer positions.  The  could also consider networking with other Java developers or professionals in the field to explore potential job openings.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job search for a Java developer.\n\n**Key Information:**  No specific key information was provided by the AI assistant as the user only provided a request.\n\n**User Actions/Intentions:** The user is seeking assistance in finding a Java-related job.\nUser Query:\n3yr experience in java\n"
+    },
+    "391c326492fc69b0327a06111cf6ed6a": {
+      "return": "The user is looking for Java developer jobs in Bangalore, India.  They have three years of experience.  No specific job requirements beyond the Java developer role and location were provided.\n\nThe user's query is quite broad, focusing solely on the location.  To provide more helpful results, additional details about the desired job type, salary range, company size, or other preferences would be beneficial.  For example, the user might want to specify the type of Java development (e.g., backend, frontend, full-stack), desired salary, or preferred company culture.\n\nWithout more specific criteria, the search results will be quite general.  A job board or online recruitment platform would be the most appropriate tool to fulfill this request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job search in Bangalore for a Java developer with 3 years of experience.\n\n**Key Information:**  No specific information was provided by the AI assistant.  The user simply stated their experience level and location preference.\n\n**User Actions/Intentions:**  The user is seeking job opportunities in Bangalore, India, for a Java developer role with 3 years of experience.\nUser Query:\nfind job in bangalore only\n"
+    },
+    "bb271e4015a143e21a318894dd28106e": {
+      "return": "The user is looking for Java programming jobs in Bangalore.  Unfortunately, the provided data does not contain any job listings or details about available Java positions in Bangalore.  The chat history summary indicates that the user is actively seeking employment in Bangalore, but no specific job requirements or desired roles were mentioned.  Therefore, a precise response about Java jobs in Bangalore cannot be generated from the given information.\n\nTo provide a helpful response, more detailed information about the user's desired job roles, experience level, and salary expectations would be necessary.  Additional data sources, such as job boards or company websites, would also be required to identify specific Java job openings in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job searching in Bangalore.\n\n**Key Information:**  No specific job details or requirements were provided, so the AI assistant could not offer tailored advice.\n\n**User Actions/Intentions:** The user is seeking job opportunities exclusively within Bangalore.\nUser Query:\nfind java jobs in bangalore\n"
+    },
+    "a3f2b3279a553dcff97735acd2d4c08a": {
+      "return": "Unfortunately, the provided data tables do not contain information to answer the user's question about getting a job with a three-year career gap.  The tables only describe the chat history, which indicates a general job search discussion and a question about India's capital, but do not contain any information about job application processes, hiring criteria, or the impact of career gaps on job prospects.  Therefore, I cannot provide a definitive answer to the user's query.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:** Job searching in Bangalore, India, and a general knowledge question about India's capital.\n\n**Key Information:**  No specific job information or insights were provided by the AI assistant.\n\n**User Actions/Intentions:**\n\n* Searched for Java jobs in Bangalore.\n* Asked for the capital of India.\nUser Query:\ni have 3 year of career gap can i get job\n"
+    },
+    "9e5a99bcfc2ab0179a88efa5729670da": {
+      "return": "The user's query asks about eligibility for web development, specifically if being a woman affects eligibility.\n\nUnfortunately, the provided data does not contain any information about eligibility for web development based on gender.  There is no information about any specific requirements or criteria for web development roles.  Therefore, I cannot answer the question based on the available data.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n* **Core Discussion:**  The user inquired about the capital of India and their ability to secure a job despite a three-year career gap.\n\n* **Key Information:**  No specific information or advice was provided by the AI assistant regarding the capital of India or job prospects.\n\n* **User Actions/Intentions:** The user sought information about the capital of India and expressed concern about securing employment after a career break.\nUser Query:\ni am a women am i elegible for web development\n"
+    },
+    "fe89a43f56b3ac11a768e0d5c9679541": {
+      "return": "The user is inquiring about their eligibility for web development jobs, specifically considering their gender and a three-year career gap.\n\nUnfortunately, the provided data does not contain information about eligibility for web development jobs, nor does it address the impact of a career gap or gender on job prospects.  The chat history summary indicates that the AI assistant did not offer any advice or insights on these topics.\n\nWithout further data or information, it is impossible to determine if the user is eligible for web development jobs.  Factors such as skills, experience, education, and the specific requirements of the desired roles would need to be considered.  Additionally, the impact of a career gap and gender on job prospects is complex and varies significantly depending on the specific industry, job role, and employer.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n**Core Discussion:**  The user is concerned about getting a job after a three-year career gap and is specifically interested in web development, potentially considering gender as a factor.\n\n**Key Information:**  No specific advice or insights were provided by the AI assistant.  The assistant did not offer information about eligibility for web development jobs or address the career gap.\n\n**User Actions/Intentions:** The user is seeking information about job prospects and eligibility for web development, given their career gap and gender.\nUser Query:\ni am a women am i elegible for web development\n"
+    },
+    "88243db3312af4f3c452f31dcbf661a3": {
+      "return": "Unfortunately, I do not have access to any chat history or data tables.  Therefore, I cannot provide a summary of the user query \"find java jobs\".  To answer this query, I would need access to job listings or a database of available Java positions.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nfind java jobs\n"
+    },
+    "bfea328168ecd4123e93f56ed4c2727f": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request for a summary of Java job listings.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nfind me java jobs\n"
+    },
+    "bf6868d475dfd06647faa53e93eafc3a": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your question about Java jobs.  Therefore, I cannot provide a summary of Java job information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\njava jobs\n"
+    },
+    "b33486a7c36f1ff2d2163aaab670f91e": {
+      "return": "Unfortunately, I do not have access to any chat history or data tables.  Therefore, I cannot provide a summary of the user query \"java jobs\".  To answer your question, I need the relevant data.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\n\nUser Query:\njava jobs\n"
+    },
+    "a14a1dc11bf3f3113fbf8abc59ff6764": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request for a summary of Java job listings.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nlist java jobs\n"
+    },
+    "5e878f2940f15e33ed6001ded1aaf46c": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer the user's query about Java jobs in Bangalore.  My knowledge is limited to the information provided in the prompt.  To provide a response, I would need access to job listings or data about job markets in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\n\nUser Query:\nin bangalore jobs\n"
+    },
+    "e6e67f9787c65851ae7f99bea4f2f681": {
+      "return": "The user query \"find jab in bangalore\" is likely a misspelling or a shorthand way of asking for \"Java jobs in Bangalore.\"  The chat history shows the user is interested in finding Java programming jobs located in Bangalore.\n\nUnfortunately, without access to job boards or other relevant data sources, I cannot provide a list of Java jobs in Bangalore.  The provided data tables do not contain information about job postings, locations, or specific technologies like Java.  To answer this query, I would need access to a database of job listings or a specific job board focused on Java positions in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: find java jobs\n\nUser Query:\nfind jab in bangalore\n"
+    },
+    "351cf3dc1e1884219ce21e3231219dc4": {
+      "return": "The user's chat history shows a search for Java jobs, followed by a more specific search for Java jobs in Bangalore.  This suggests a user interest in Java programming positions located in Bangalore, India.  The user query, \"find jobs in Bangalore,\" is a refined version of the initial search, focusing solely on job opportunities in Bangalore.  No specific job titles or other details are provided in the query.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: find java jobs\nUser: find jab in bangalore\n\nUser Query:\nfind jobs in bangalore\n"
+    },
+    "200786fa05cb4f2d7a71a51899ede392": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request.  Therefore, I cannot provide a summary of Java job information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind Java jobs.\n"
+    },
+    "f4d06f3d321c58cabd341d5bba96ca42": {
+      "return": "Unfortunately, I do not have access to any data tables or information about job postings.  Therefore, I cannot fulfill your request to find Java jobs in Odisha.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\n\nUser Query:\nFind Java jobs in Odisha.\n"
+    },
+    "012f4fc35265f55c933b4e34226d36be": {
+      "return": "Unfortunately, I do not have access to any job listings or data about job availability in Odisha.  The provided data tables are empty, and therefore I cannot fulfill your request for a summary of Java jobs in Odisha with 3 years of experience.  To answer your query, I would need access to a database of job postings or a similar data source.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\nUser: in odisha\n\nUser Query:\nFind Java jobs in Odisha with 3 years of experience.\n"
+    },
+    "4c2e8199c398041c0513be50a3881c86": {
+      "return": "Unfortunately, I do not have access to any data about job postings, including React jobs in Odisha.  The provided data tables are empty, and therefore, I cannot fulfill your request.  To answer your query about React jobs in Odisha, I would need access to a database of job postings that includes location and technology specifications.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\nUser: in odisha\n\nUser Query:\nFind React jobs in Odisha.\n"
+    },
+    "1e76d1bd1621b4d989a3b36c1d5de00a": {
+      "return": "Unfortunately, I do not have access to any chat history or data tables.  Therefore, I cannot fulfill your request to summarize the chat history and find React jobs.  Please provide the necessary data tables or chat history for me to process.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs.\n"
+    },
+    "d59d50e7a5358d3a264fd37411ef8a64": {
+      "return": "Unfortunately, I do not have access to any data tables or information sources to answer your query about React jobs in Bangalore.  Therefore, I cannot provide a summary of job listings or related information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: find react jobs\n\nUser Query:\nFind React jobs in Bangalore.\n"
+    },
+    "aa65659223afd2019a24725aea13dba1": {
+      "return": "Unfortunately, I do not have access to any data tables or information sources to answer your query about Java jobs in Bangalore.  Therefore, I cannot provide a summary of available jobs.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\n\nUser Query:\nFind Java jobs in Bangalore.\n"
+    },
+    "48fe1d78cd21855217258964b08ad449": {
+      "return": "Unfortunately, I do not have access to any data tables or information about job listings.  Therefore, I cannot fulfill your request to find Java jobs in Bangalore, Odisha.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: java jobs\nUser: in bangalore find java jobs\n\nUser Query:\nFind Java jobs in Bangalore, Odisha.\n"
+    },
+    "7bd67a2993dbe108e2243750120c9c6e": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your request.  Therefore, I cannot provide a summary of React jobs for someone with 3 years of experience.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs for someone with 3 years of experience.\n"
+    },
+    "e4118fb562e50ecb505ce67fd5c6ad06": {
+      "return": "Unfortunately, I do not have access to job listings or real-time data on job availability.  Therefore, I cannot fulfill the request to find React jobs in Bangalore with 3 years of experience.  My knowledge is limited to the provided data, which does not include any job postings.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: I have 3 yr experience in react find jobs\n\nUser Query:\nFind React jobs in Bangalore with 3 years of experience.\n"
+    },
+    "d1df6693824c0f7909887f9bf4d5ad2b": {
+      "return": "The user is looking for React developer jobs in Bangalore with 3 years of experience.  They are also interested in any cloud events happening in the area.\n\nUnfortunately, the provided data tables do not contain information about job postings, job requirements, or specific events.  Therefore, I cannot directly answer the user's query about job openings or cloud events.  To fulfill this request, I would need access to a database of job postings or a calendar of events.  A job board or a cloud computing platform's event calendar would be helpful resources.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: I have 3 yr experience in react find jobs\nUser: find in bangalore\n\nUser Query:\nFind jobs for React developers with 3 years of experience in Bangalore, and check if there are any cloud events happening.\n"
+    },
+    "e4db990ebfa26834a51d84f36d630623": {
+      "return": "Unfortunately, the provided data tables do not contain information about communities in Bangalore that can help with cloud job searches.  There is no data on cloud events, job opportunities, or relevant communities.  Therefore, I cannot answer the user's query.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\nUser: find in bangalore\nUser: is there any cloud event happening?\n\nUser Query:\nFind communities in Bangalore that can guide me in searching for cloud-related jobs.\n"
+    },
+    "0fb8d9cf84e2ca119f2b7ea7553b1ef2": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your question about finding web development jobs for someone with 3 years of experience.  Therefore, I cannot provide a summary of relevant information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind web development jobs for someone with 3 years of experience.\n"
+    },
+    "90a2ee2e4d995cabba7c41b01187f228": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about web development jobs in Bangalore for someone with 3 years of experience.  My knowledge is limited to the information provided in the prompt.  To answer your question, I would need access to job postings or a database of available positions.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind web development jobs in Bangalore for someone with 3 years of experience.\n"
+    },
+    "b88f0724d369b5f70dca2532f4e30296": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your question about frontend development jobs for someone with 3 years of experience.  My knowledge is limited to the information provided in the prompt.  To answer your query, I would need access to job postings or a database of available frontend development positions.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind frontend development jobs for someone with 3 years of experience.\n"
+    },
+    "db4ba4e954ea07a7d4cbb2d3bd1cc944": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about frontend development jobs in Bangalore for someone with 3 years of experience.  My knowledge is limited to the information provided in the prompt.  To answer your question, I would need access to job postings or a database of available positions.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind frontend development jobs in Bangalore for someone with 3 years of experience.\n"
+    },
+    "7e2b12a9c1c1683c533bfc6eb8b48937": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about frontend development jobs in Bangalore involving AWS events.  My knowledge is limited to the information provided in the prompt.  To answer your question, I would need access to job postings or a database of similar information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind frontend development jobs in Bangalore that involve AWS events.\n"
+    },
+    "c13b013765f94c23444989859befcc1d": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request.  Therefore, I cannot provide a summary of cloud events in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind cloud events in Bangalore.\n"
+    },
+    "44482ed8c70ab22efbc9d6a6733a0f7f": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your question about the capital of India and related AWS or cloud events.  My knowledge is limited to the information provided in the prompt.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nWhat is the capital of India, and are there any AWS or cloud events related to that?\n"
+    },
+    "1c741333f90bb691453bbfc948aed22a": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request.  Therefore, I cannot provide a summary of Java jobs in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind Java jobs in Bangalore.\n"
+    },
+    "5e6a188ee3fda65c4f6807510cd0d76f": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your question about Java jobs in the Bangalore community.  Therefore, I cannot provide a summary of the information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind Java jobs in Bangalore community.\n"
+    },
+    "ce9b4fcc09a85f79b5a8e7916052fe1d": {
+      "return": "Unfortunately, I do not have access to any data tables or information about AI communities in Bangalore.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind me AI communities in Bangalore.\n"
+    },
+    "4c786bc248a8c99d779433dbe62e0b97": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about finding Java jobs for freshers in India.  My knowledge is limited to the information provided in the prompt.  To provide a relevant response, I would need access to job postings, salary data, or other relevant information about the job market in India.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind Java jobs for freshers in India.\n"
+    },
+    "08807862b60b9c71094f362f29d37528": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about Java jobs for freshers in Bangalore.  My knowledge is limited to the information provided in the prompt.  To provide a relevant response, I would need access to job listings or data about job markets in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind Java jobs for freshers in Bangalore.\n"
+    },
+    "3f0b64c13597e18a7240d903720fe64e": {
+      "return": "Unfortunately, I do not have access to any data about AI events in Bangalore for freshers.  The provided data tables are empty, meaning there is no information about events, locations, or target audiences.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind upcoming AI events in Bangalore for freshers.\n"
+    },
+    "830f45333bc3668d29c75184ee062d6b": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your question about finding Java jobs for freshers.  Therefore, I cannot provide a summary of the information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind Java jobs for freshers.\n"
+    },
+    "3e07791eccef01bff8f44416700bc20c": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about finding React jobs for freshers in India.  Therefore, I cannot provide a summary of relevant information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs for fresher in India.\n"
+    },
+    "7e0fc59b14e3573e9b52c62c172527fa": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about React jobs for freshers in Bangalore.  My knowledge is limited to the information provided in the prompt.  To provide a relevant response, I would need access to job listings or data about job markets in Bangalore.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs for freshers in Bangalore.\n"
+    },
+    "a31e319e72b4047a6335908cc31fa211": {
+      "return": "Unfortunately, I do not have access to any data tables or information sources to answer your question about React jobs for freshers in Bangalore or AI events in Bangalore.  Therefore, I cannot provide a summary of the information you requested.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs for freshers in Bangalore.  Is there any AI event happening in Bangalore?\n"
+    },
+    "c6f7e11672ab305726484dd73fb2ff8a": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your question about finding React jobs for freshers.  Therefore, I cannot provide a summary of the information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs for freshers.\n"
+    },
+    "f88ee9e17356e0eecdd475e13f320f8e": {
+      "return": "Unfortunately, I do not have access to any data tables or chat history to answer your request for a summary of upcoming AI events.  My knowledge is limited to the information provided in the prompt.  To get a summary of upcoming AI events, I would need access to a calendar or database of events.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nCheck upcoming AI events\n"
+    },
+    "acaa32de327c2d536a7c5f459a12cddf": {
+      "return": "Unfortunately, I do not have access to any chat history or data to answer your request for a summary of upcoming AI events.  The provided data tables are empty, meaning there is no information about AI events or any relevant data to draw a summary from.  To provide a summary of upcoming AI events, I would need access to a calendar or database of events.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nSearch upcoming AI events.\n"
+    },
+    "0937dfbf84d5597173faacc8fcefa54b": {
+      "return": "Unfortunately, I do not have access to any data tables or information about AI events in Bangalore for freshers.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind AI events in Bangalore for freshers.\n"
+    },
+    "416aa0451996291182ddce76d8b0481c": {
+      "return": "Unfortunately, I do not have access to any data tables or information about machine learning events in Bangalore.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind machine learning events in Bangalore.\n"
+    },
+    "a5f15c260ec73ded660660abc229c403": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about React jobs for freshers in Bangalore, or relevant events.  My knowledge is limited to the information provided in the prompt.  To answer your question, I would need access to job boards, event listings, or other relevant data sources.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs for fresher in Bangalore, and are there any events helpful for me?\n"
+    },
+    "61cab0cd32acc9d0d4a17d5bae64e250": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about React jobs in India.  Therefore, I cannot provide a summary of job listings or related information.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs in India.\n"
+    },
+    "aff809df8d3849c7d61b97d23f49b736": {
+      "return": "Unfortunately, I do not have access to any data tables or information to answer your query about React jobs in Bangalore, India.  My knowledge is limited to the information provided in the prompt, and there are no tables or data sources included.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind React jobs in Bangalore, India.\n"
+    },
+    "fc700e5dda6c7ef6aea837a3faff175d": {
+      "return": "Unfortunately, I do not have access to any data tables or information about machine learning events in Bangalore for freshers.  Therefore, I cannot fulfill your request.\n",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "\nChat history summary:\n\nUser Query:\nFind machine learning events in Bangalore for freshers.\n"
+    }
+  }
+}

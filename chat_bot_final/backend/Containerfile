@@ -1,0 +1,33 @@
+# Use an official Python image as the base image
+FROM python:3.12.7-slim
+
+# Set environment variables (for example, MongoDB URI, app settings, etc.)
+ENV MONGO_URI="mongodb://localhost:27017"
+ENV APP_ENV="production"
+ENV GOOGLE_API_KEY=AIzaSyCTdVdcQV1BnhaQFdPZAntTX7k_37xPEGM
+ENV TAVILY_API_KEY=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
+ENV GEMINI_API_KEY=AIzaSyCTdVdcQV1BnhaQFdPZAntTX7k_37xPEGM
+ENV MONGODB_URI=mongodb://localhost:27017
+ENV DB_NAME=chatbot_db
+ENV DEBUG="false"
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install system dependencies (useful for building wheels for libraries like pymongo)
+RUN apt-get update && apt-get install -y gcc
+
+# Copy the requirements.txt file into the container
+COPY requirements.txt .
+
+# Install Python dependencies in a single layer
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the application code into the container
+COPY . .
+
+# Expose the port Uvicorn will run on
+EXPOSE 8000
+
+# Set the command to run the Uvicorn server
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

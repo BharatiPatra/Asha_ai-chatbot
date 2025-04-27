@@ -1,0 +1,80 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+*.venv/
+venv/
+ENV/
+env/
+instance/
+.pytest_cache/
+.coverage
+.cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.tox/
+.idea/
+*.sqlite3
+
+# ---- Django-specific ----
+*.log
+staticfiles/
+media/
+
+# ---- FastAPI/Flask-specific ----
+*.db
+*.bak
+
+# ---- JavaScript / Node.js ----
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ---- Vite / Webpack / Frontend build ----
+dist/
+build/
+.out/
+.next/
+.vercel/
+.netlify/
+
+# ---- General ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ---- VSCode settings ----
+.vscode/
+
+# ---- Coverage reports ----
+htmlcov/
+coverage.xml
+
+# ---- Local Env Files ----
+.env.local
+.env.production
+.env.development
+.env.test
+
+# ---- Others ----
+*.log
+logs/
+tmp/
+temp/
+.cache/
