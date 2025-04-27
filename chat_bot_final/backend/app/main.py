@@ -1,3 +1,5 @@
+import os
+import uvicorn
 from fastapi import FastAPI,Request
 from fastapi.responses import JSONResponse
 from fastapi.exceptions import RequestValidationError
@@ -12,7 +14,7 @@ origins = [
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -32,3 +34,9 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
         content={"detail": exc.errors()},
     )
 
+if __name__ == "__main__":
+    # Get the port from the environment variable, default to 8000 if not set
+    port = int(os.environ.get("PORT", 8000))
+    
+    # Run the Uvicorn app with the correct host and port
+    uvicorn.run("app.main:app", host="0.0.0.0", port=port)
