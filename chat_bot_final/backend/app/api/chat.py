@@ -24,6 +24,10 @@ class ChatResponse(BaseModel):
     timestamp: str
     session_id: str
 
+@router.get("/test")
+async def read_test():
+    return {"message": "Hello, world!"}
+
 @router.post("/chat")
 async def chat_endpoint(message_data: ChatRequest):
     print("Received message data")
